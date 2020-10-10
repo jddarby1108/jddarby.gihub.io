@@ -2,11 +2,12 @@ h1{
     font-size: 60px;
     background-color: black;
     color: white;
-    text-align: center;
-    text-decoration: underline;
+    text-align: center;    
 }
 
-p{
-    background-color: green;
-    color: white;
+table{
+    border=1px solid black; 
+    border-spacing: 20px; 
+    width: 300px;
+    align-items: center;
 }
