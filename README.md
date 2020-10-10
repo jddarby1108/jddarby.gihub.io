@@ -1,1 +1,1 @@
-# jddarby.gihub.io
+# JDDarby.github.io
